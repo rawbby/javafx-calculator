@@ -1,0 +1,28 @@
+.text-field {
+    -fx-min-height: 40.0;
+    -fx-max-height: 40.0;
+    -fx-text-fill: #333333;
+    -fx-font-family: "FreeMono Bold";
+    -fx-font-size: 24.0;
+}
+
+.label {
+    -fx-min-height: 40.0;
+    -fx-max-height: 40.0;
+    -fx-text-fill: #333333;
+    -fx-font-family: "FreeMono Bold";
+    -fx-font-size: 24.0;
+}
+
+.button {
+    -fx-alignment: center;
+    -fx-text-alignment: center;
+    -fx-padding: 0;
+    -fx-min-height: 40.0;
+    -fx-min-width: 50.0;
+    -fx-max-height: 40.0;
+    -fx-max-width: 50.0;
+    -fx-text-fill: #333333;
+    -fx-font-family: "FreeMono Bold";
+    -fx-font-size: 24.0;
+}
